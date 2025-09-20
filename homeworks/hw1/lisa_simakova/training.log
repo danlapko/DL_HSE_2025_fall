@@ -1,0 +1,701 @@
+2025-09-13 12:53:16,052 - INFO - Epoch 0, Batch 0, Train Loss: 1.1046
+2025-09-13 12:53:16,932 - INFO - Epoch 0, Batch 100, Train Loss: 0.9563
+2025-09-13 12:53:17,713 - INFO - Epoch 0, Batch 200, Train Loss: 0.8810
+2025-09-13 12:53:18,041 - INFO - Epoch 1/100, Train Loss: 0.9342, Val Accuracy: 0.6846, Val Conf Matrix:
+[[1906  612  133]
+ [ 486 1141 1084]
+ [   2  191 2396]]
+2025-09-13 12:53:18,061 - INFO - Epoch 1, Batch 0, Train Loss: 0.8459
+2025-09-13 12:53:18,820 - INFO - Epoch 1, Batch 100, Train Loss: 0.7704
+2025-09-13 12:53:19,671 - INFO - Epoch 1, Batch 200, Train Loss: 0.6957
+2025-09-13 12:53:19,979 - INFO - Epoch 2/100, Train Loss: 0.7823, Val Accuracy: 0.7307, Val Conf Matrix:
+[[2218  388   45]
+ [ 606 1205  900]
+ [  13  189 2387]]
+2025-09-13 12:53:19,995 - INFO - Epoch 2, Batch 0, Train Loss: 0.7547
+2025-09-13 12:53:20,753 - INFO - Epoch 2, Batch 100, Train Loss: 0.7339
+2025-09-13 12:53:21,524 - INFO - Epoch 2, Batch 200, Train Loss: 0.7628
+2025-09-13 12:53:21,861 - INFO - Epoch 3/100, Train Loss: 0.7394, Val Accuracy: 0.7558, Val Conf Matrix:
+[[2201  412   38]
+ [ 412 1338  961]
+ [  32   87 2470]]
+2025-09-13 12:53:21,861 - INFO - Epoch 3, Batch 0, Train Loss: 0.7328
+2025-09-13 12:53:22,656 - INFO - Epoch 3, Batch 100, Train Loss: 0.6824
+2025-09-13 12:53:23,468 - INFO - Epoch 3, Batch 200, Train Loss: 0.7101
+2025-09-13 12:53:23,865 - INFO - Epoch 4/100, Train Loss: 0.7126, Val Accuracy: 0.7680, Val Conf Matrix:
+[[2178  451   22]
+ [ 310 1449  952]
+ [  18   92 2479]]
+2025-09-13 12:53:23,881 - INFO - Epoch 4, Batch 0, Train Loss: 0.7461
+2025-09-13 12:53:24,894 - INFO - Epoch 4, Batch 100, Train Loss: 0.7013
+2025-09-13 12:53:25,662 - INFO - Epoch 4, Batch 200, Train Loss: 0.6692
+2025-09-13 12:53:26,002 - INFO - Epoch 5/100, Train Loss: 0.6898, Val Accuracy: 0.7761, Val Conf Matrix:
+[[2272  360   19]
+ [ 337 1451  923]
+ [  42   99 2448]]
+2025-09-13 12:53:26,025 - INFO - Epoch 5, Batch 0, Train Loss: 0.6334
+2025-09-13 12:53:26,970 - INFO - Epoch 5, Batch 100, Train Loss: 0.6648
+2025-09-13 12:53:27,764 - INFO - Epoch 5, Batch 200, Train Loss: 0.6520
+2025-09-13 12:53:28,230 - INFO - Epoch 6/100, Train Loss: 0.6721, Val Accuracy: 0.7930, Val Conf Matrix:
+[[2263  369   19]
+ [ 242 1581  888]
+ [  27  101 2461]]
+2025-09-13 12:53:28,230 - INFO - Epoch 6, Batch 0, Train Loss: 0.6316
+2025-09-13 12:53:29,060 - INFO - Epoch 6, Batch 100, Train Loss: 0.7199
+2025-09-13 12:53:29,864 - INFO - Epoch 6, Batch 200, Train Loss: 0.5971
+2025-09-13 12:53:30,213 - INFO - Epoch 7/100, Train Loss: 0.6556, Val Accuracy: 0.7974, Val Conf Matrix:
+[[2226  399   26]
+ [ 208 1674  829]
+ [  11  138 2440]]
+2025-09-13 12:53:30,228 - INFO - Epoch 7, Batch 0, Train Loss: 0.6377
+2025-09-13 12:53:30,997 - INFO - Epoch 7, Batch 100, Train Loss: 0.6234
+2025-09-13 12:53:31,933 - INFO - Epoch 7, Batch 200, Train Loss: 0.6383
+2025-09-13 12:53:32,385 - INFO - Epoch 8/100, Train Loss: 0.6427, Val Accuracy: 0.7965, Val Conf Matrix:
+[[2213  402   36]
+ [ 199 1674  838]
+ [  20  123 2446]]
+2025-09-13 12:53:32,409 - INFO - Epoch 8, Batch 0, Train Loss: 0.6070
+2025-09-13 12:53:33,153 - INFO - Epoch 8, Batch 100, Train Loss: 0.5988
+2025-09-13 12:53:33,952 - INFO - Epoch 8, Batch 200, Train Loss: 0.5950
+2025-09-13 12:53:34,484 - INFO - Epoch 9/100, Train Loss: 0.6284, Val Accuracy: 0.8126, Val Conf Matrix:
+[[2303  327   21]
+ [ 216 1694  801]
+ [   5  120 2464]]
+2025-09-13 12:53:34,500 - INFO - Epoch 9, Batch 0, Train Loss: 0.6098
+2025-09-13 12:53:35,365 - INFO - Epoch 9, Batch 100, Train Loss: 0.5732
+2025-09-13 12:53:36,173 - INFO - Epoch 9, Batch 200, Train Loss: 0.6334
+2025-09-13 12:53:36,498 - INFO - Epoch 10/100, Train Loss: 0.6174, Val Accuracy: 0.8178, Val Conf Matrix:
+[[2350  286   15]
+ [ 213 1728  770]
+ [  23  142 2424]]
+2025-09-13 12:53:36,516 - INFO - Epoch 10, Batch 0, Train Loss: 0.5609
+2025-09-13 12:53:37,356 - INFO - Epoch 10, Batch 100, Train Loss: 0.6123
+2025-09-13 12:53:38,333 - INFO - Epoch 10, Batch 200, Train Loss: 0.6159
+2025-09-13 12:53:38,686 - INFO - Epoch 11/100, Train Loss: 0.6100, Val Accuracy: 0.8222, Val Conf Matrix:
+[[2396  251    4]
+ [ 216 1709  786]
+ [  20  137 2432]]
+2025-09-13 12:53:38,702 - INFO - Epoch 11, Batch 0, Train Loss: 0.5823
+2025-09-13 12:53:39,583 - INFO - Epoch 11, Batch 100, Train Loss: 0.5880
+2025-09-13 12:53:40,380 - INFO - Epoch 11, Batch 200, Train Loss: 0.6341
+2025-09-13 12:53:40,712 - INFO - Epoch 12/100, Train Loss: 0.5999, Val Accuracy: 0.8189, Val Conf Matrix:
+[[2312  308   31]
+ [ 171 1789  751]
+ [  14  165 2410]]
+2025-09-13 12:53:40,728 - INFO - Epoch 12, Batch 0, Train Loss: 0.5704
+2025-09-13 12:53:41,543 - INFO - Epoch 12, Batch 100, Train Loss: 0.6151
+2025-09-13 12:53:42,542 - INFO - Epoch 12, Batch 200, Train Loss: 0.6035
+2025-09-13 12:53:42,891 - INFO - Epoch 13/100, Train Loss: 0.5901, Val Accuracy: 0.8191, Val Conf Matrix:
+[[2304  314   33]
+ [ 172 1790  749]
+ [  20  150 2419]]
+2025-09-13 12:53:42,912 - INFO - Epoch 13, Batch 0, Train Loss: 0.6058
+2025-09-13 12:53:43,587 - INFO - Epoch 13, Batch 100, Train Loss: 0.5797
+2025-09-13 12:53:44,247 - INFO - Epoch 13, Batch 200, Train Loss: 0.5513
+2025-09-13 12:53:44,568 - INFO - Epoch 14/100, Train Loss: 0.5837, Val Accuracy: 0.8246, Val Conf Matrix:
+[[2421  224    6]
+ [ 205 1794  712]
+ [  38  210 2341]]
+2025-09-13 12:53:44,568 - INFO - Epoch 14, Batch 0, Train Loss: 0.6262
+2025-09-13 12:53:45,339 - INFO - Epoch 14, Batch 100, Train Loss: 0.5909
+2025-09-13 12:53:46,113 - INFO - Epoch 14, Batch 200, Train Loss: 0.5862
+2025-09-13 12:53:46,431 - INFO - Epoch 15/100, Train Loss: 0.5748, Val Accuracy: 0.8345, Val Conf Matrix:
+[[2435  208    8]
+ [ 201 1801  709]
+ [  10  180 2399]]
+2025-09-13 12:53:46,453 - INFO - Epoch 15, Batch 0, Train Loss: 0.5553
+2025-09-13 12:53:47,416 - INFO - Epoch 15, Batch 100, Train Loss: 0.5655
+2025-09-13 12:53:48,257 - INFO - Epoch 15, Batch 200, Train Loss: 0.6065
+2025-09-13 12:53:48,591 - INFO - Epoch 16/100, Train Loss: 0.5658, Val Accuracy: 0.8347, Val Conf Matrix:
+[[2424  219    8]
+ [ 175 1857  679]
+ [  29  204 2356]]
+2025-09-13 12:53:48,614 - INFO - Epoch 16, Batch 0, Train Loss: 0.5412
+2025-09-13 12:53:49,515 - INFO - Epoch 16, Batch 100, Train Loss: 0.5123
+2025-09-13 12:53:50,229 - INFO - Epoch 16, Batch 200, Train Loss: 0.5099
+2025-09-13 12:53:50,525 - INFO - Epoch 17/100, Train Loss: 0.5580, Val Accuracy: 0.8295, Val Conf Matrix:
+[[2390  239   22]
+ [ 164 1775  772]
+ [  34  125 2430]]
+2025-09-13 12:53:50,546 - INFO - Epoch 17, Batch 0, Train Loss: 0.5544
+2025-09-13 12:53:51,217 - INFO - Epoch 17, Batch 100, Train Loss: 0.5206
+2025-09-13 12:53:51,892 - INFO - Epoch 17, Batch 200, Train Loss: 0.5466
+2025-09-13 12:53:52,200 - INFO - Epoch 18/100, Train Loss: 0.5492, Val Accuracy: 0.8323, Val Conf Matrix:
+[[2373  253   25]
+ [ 138 1834  739]
+ [   4  174 2411]]
+2025-09-13 12:53:52,216 - INFO - Epoch 18, Batch 0, Train Loss: 0.5537
+2025-09-13 12:53:52,979 - INFO - Epoch 18, Batch 100, Train Loss: 0.5405
+2025-09-13 12:53:53,831 - INFO - Epoch 18, Batch 200, Train Loss: 0.5803
+2025-09-13 12:53:54,124 - INFO - Epoch 19/100, Train Loss: 0.5388, Val Accuracy: 0.8410, Val Conf Matrix:
+[[2412  211   28]
+ [ 134 1870  707]
+ [   6  178 2405]]
+2025-09-13 12:53:54,141 - INFO - Epoch 19, Batch 0, Train Loss: 0.5044
+2025-09-13 12:53:54,871 - INFO - Epoch 19, Batch 100, Train Loss: 0.5606
+2025-09-13 12:53:55,569 - INFO - Epoch 19, Batch 200, Train Loss: 0.5310
+2025-09-13 12:53:55,926 - INFO - Epoch 20/100, Train Loss: 0.5325, Val Accuracy: 0.8400, Val Conf Matrix:
+[[2429  214    8]
+ [ 134 1838  739]
+ [  16  161 2412]]
+2025-09-13 12:53:55,942 - INFO - Epoch 20, Batch 0, Train Loss: 0.5116
+2025-09-13 12:53:56,728 - INFO - Epoch 20, Batch 100, Train Loss: 0.5049
+2025-09-13 12:53:57,480 - INFO - Epoch 20, Batch 200, Train Loss: 0.5424
+2025-09-13 12:53:57,848 - INFO - Epoch 21/100, Train Loss: 0.5205, Val Accuracy: 0.8469, Val Conf Matrix:
+[[2476  172    3]
+ [ 153 1850  708]
+ [  23  158 2408]]
+2025-09-13 12:53:57,871 - INFO - Epoch 21, Batch 0, Train Loss: 0.5297
+2025-09-13 12:53:58,608 - INFO - Epoch 21, Batch 100, Train Loss: 0.5267
+2025-09-13 12:53:59,282 - INFO - Epoch 21, Batch 200, Train Loss: 0.5110
+2025-09-13 12:53:59,590 - INFO - Epoch 22/100, Train Loss: 0.5103, Val Accuracy: 0.8539, Val Conf Matrix:
+[[2463  176   12]
+ [ 133 1927  651]
+ [   7  183 2399]]
+2025-09-13 12:53:59,608 - INFO - Epoch 22, Batch 0, Train Loss: 0.4965
+2025-09-13 12:54:00,421 - INFO - Epoch 22, Batch 100, Train Loss: 0.4591
+2025-09-13 12:54:01,201 - INFO - Epoch 22, Batch 200, Train Loss: 0.4585
+2025-09-13 12:54:01,538 - INFO - Epoch 23/100, Train Loss: 0.5030, Val Accuracy: 0.8569, Val Conf Matrix:
+[[2459  189    3]
+ [ 103 2041  567]
+ [  28  248 2313]]
+2025-09-13 12:54:01,554 - INFO - Epoch 23, Batch 0, Train Loss: 0.4831
+2025-09-13 12:54:02,441 - INFO - Epoch 23, Batch 100, Train Loss: 0.5018
+2025-09-13 12:54:03,387 - INFO - Epoch 23, Batch 200, Train Loss: 0.4879
+2025-09-13 12:54:03,738 - INFO - Epoch 24/100, Train Loss: 0.4942, Val Accuracy: 0.8550, Val Conf Matrix:
+[[2464  177   10]
+ [ 113 1945  653]
+ [   1  199 2389]]
+2025-09-13 12:54:03,754 - INFO - Epoch 24, Batch 0, Train Loss: 0.4583
+2025-09-13 12:54:04,545 - INFO - Epoch 24, Batch 100, Train Loss: 0.4574
+2025-09-13 12:54:05,369 - INFO - Epoch 24, Batch 200, Train Loss: 0.4909
+2025-09-13 12:54:05,751 - INFO - Epoch 25/100, Train Loss: 0.4862, Val Accuracy: 0.8620, Val Conf Matrix:
+[[2494  152    5]
+ [  94 1993  624]
+ [   4  218 2367]]
+2025-09-13 12:54:05,767 - INFO - Epoch 25, Batch 0, Train Loss: 0.5005
+2025-09-13 12:54:06,578 - INFO - Epoch 25, Batch 100, Train Loss: 0.4835
+2025-09-13 12:54:07,383 - INFO - Epoch 25, Batch 200, Train Loss: 0.4209
+2025-09-13 12:54:07,714 - INFO - Epoch 26/100, Train Loss: 0.4786, Val Accuracy: 0.8614, Val Conf Matrix:
+[[2486  162    3]
+ [ 100 1959  652]
+ [  29  156 2404]]
+2025-09-13 12:54:07,737 - INFO - Epoch 26, Batch 0, Train Loss: 0.4530
+2025-09-13 12:54:08,552 - INFO - Epoch 26, Batch 100, Train Loss: 0.4600
+2025-09-13 12:54:09,248 - INFO - Epoch 26, Batch 200, Train Loss: 0.4358
+2025-09-13 12:54:09,560 - INFO - Epoch 27/100, Train Loss: 0.4694, Val Accuracy: 0.8611, Val Conf Matrix:
+[[2484  165    2]
+ [  84 1974  653]
+ [  31  169 2389]]
+2025-09-13 12:54:09,572 - INFO - Epoch 27, Batch 0, Train Loss: 0.4620
+2025-09-13 12:54:10,473 - INFO - Epoch 27, Batch 100, Train Loss: 0.4582
+2025-09-13 12:54:11,287 - INFO - Epoch 27, Batch 200, Train Loss: 0.4955
+2025-09-13 12:54:11,639 - INFO - Epoch 28/100, Train Loss: 0.4659, Val Accuracy: 0.8672, Val Conf Matrix:
+[[2485  143   23]
+ [  85 2015  611]
+ [  22  172 2395]]
+2025-09-13 12:54:11,639 - INFO - Epoch 28, Batch 0, Train Loss: 0.4692
+2025-09-13 12:54:12,467 - INFO - Epoch 28, Batch 100, Train Loss: 0.4346
+2025-09-13 12:54:13,256 - INFO - Epoch 28, Batch 200, Train Loss: 0.4923
+2025-09-13 12:54:13,589 - INFO - Epoch 29/100, Train Loss: 0.4585, Val Accuracy: 0.8634, Val Conf Matrix:
+[[2501  147    3]
+ [  92 1966  653]
+ [  11  180 2398]]
+2025-09-13 12:54:13,602 - INFO - Epoch 29, Batch 0, Train Loss: 0.4352
+2025-09-13 12:54:14,339 - INFO - Epoch 29, Batch 100, Train Loss: 0.4618
+2025-09-13 12:54:15,241 - INFO - Epoch 29, Batch 200, Train Loss: 0.4522
+2025-09-13 12:54:15,595 - INFO - Epoch 30/100, Train Loss: 0.4514, Val Accuracy: 0.8703, Val Conf Matrix:
+[[2507  132   12]
+ [  90 1991  630]
+ [   4  163 2422]]
+2025-09-13 12:54:15,620 - INFO - Epoch 30, Batch 0, Train Loss: 0.5065
+2025-09-13 12:54:16,418 - INFO - Epoch 30, Batch 100, Train Loss: 0.4000
+2025-09-13 12:54:17,259 - INFO - Epoch 30, Batch 200, Train Loss: 0.4256
+2025-09-13 12:54:17,689 - INFO - Epoch 31/100, Train Loss: 0.4488, Val Accuracy: 0.8669, Val Conf Matrix:
+[[2501  149    1]
+ [  95 1991  625]
+ [   6  182 2401]]
+2025-09-13 12:54:17,706 - INFO - Epoch 31, Batch 0, Train Loss: 0.4085
+2025-09-13 12:54:18,516 - INFO - Epoch 31, Batch 100, Train Loss: 0.4292
+2025-09-13 12:54:19,412 - INFO - Epoch 31, Batch 200, Train Loss: 0.4325
+2025-09-13 12:54:19,775 - INFO - Epoch 32/100, Train Loss: 0.4432, Val Accuracy: 0.8667, Val Conf Matrix:
+[[2504  145    2]
+ [  85 1989  637]
+ [  16  175 2398]]
+2025-09-13 12:54:19,799 - INFO - Epoch 32, Batch 0, Train Loss: 0.4457
+2025-09-13 12:54:20,788 - INFO - Epoch 32, Batch 100, Train Loss: 0.4337
+2025-09-13 12:54:21,507 - INFO - Epoch 32, Batch 200, Train Loss: 0.3961
+2025-09-13 12:54:21,829 - INFO - Epoch 33/100, Train Loss: 0.4395, Val Accuracy: 0.8672, Val Conf Matrix:
+[[2501  147    3]
+ [  68 2019  624]
+ [  31  183 2375]]
+2025-09-13 12:54:21,845 - INFO - Epoch 33, Batch 0, Train Loss: 0.4738
+2025-09-13 12:54:22,637 - INFO - Epoch 33, Batch 100, Train Loss: 0.4185
+2025-09-13 12:54:23,433 - INFO - Epoch 33, Batch 200, Train Loss: 0.4026
+2025-09-13 12:54:23,860 - INFO - Epoch 34/100, Train Loss: 0.4339, Val Accuracy: 0.8725, Val Conf Matrix:
+[[2513  135    3]
+ [  83 2033  595]
+ [   5  193 2391]]
+2025-09-13 12:54:23,876 - INFO - Epoch 34, Batch 0, Train Loss: 0.4361
+2025-09-13 12:54:24,740 - INFO - Epoch 34, Batch 100, Train Loss: 0.4173
+2025-09-13 12:54:25,700 - INFO - Epoch 34, Batch 200, Train Loss: 0.4194
+2025-09-13 12:54:26,064 - INFO - Epoch 35/100, Train Loss: 0.4316, Val Accuracy: 0.8688, Val Conf Matrix:
+[[2510  138    3]
+ [  74 2042  595]
+ [   7  226 2356]]
+2025-09-13 12:54:26,080 - INFO - Epoch 35, Batch 0, Train Loss: 0.5419
+2025-09-13 12:54:26,930 - INFO - Epoch 35, Batch 100, Train Loss: 0.4391
+2025-09-13 12:54:27,711 - INFO - Epoch 35, Batch 200, Train Loss: 0.4280
+2025-09-13 12:54:28,134 - INFO - Epoch 36/100, Train Loss: 0.4266, Val Accuracy: 0.8746, Val Conf Matrix:
+[[2511  137    3]
+ [  81 2070  560]
+ [   4  212 2373]]
+2025-09-13 12:54:28,144 - INFO - Epoch 36, Batch 0, Train Loss: 0.4120
+2025-09-13 12:54:28,944 - INFO - Epoch 36, Batch 100, Train Loss: 0.4477
+2025-09-13 12:54:29,724 - INFO - Epoch 36, Batch 200, Train Loss: 0.4394
+2025-09-13 12:54:30,069 - INFO - Epoch 37/100, Train Loss: 0.4225, Val Accuracy: 0.8712, Val Conf Matrix:
+[[2506  143    2]
+ [  60 2001  650]
+ [   8  161 2420]]
+2025-09-13 12:54:30,090 - INFO - Epoch 37, Batch 0, Train Loss: 0.3823
+2025-09-13 12:54:30,847 - INFO - Epoch 37, Batch 100, Train Loss: 0.3911
+2025-09-13 12:54:31,661 - INFO - Epoch 37, Batch 200, Train Loss: 0.4821
+2025-09-13 12:54:31,961 - INFO - Epoch 38/100, Train Loss: 0.4166, Val Accuracy: 0.8721, Val Conf Matrix:
+[[2505  144    2]
+ [  64 2059  588]
+ [   5  214 2370]]
+2025-09-13 12:54:31,981 - INFO - Epoch 38, Batch 0, Train Loss: 0.4526
+2025-09-13 12:54:32,814 - INFO - Epoch 38, Batch 100, Train Loss: 0.4308
+2025-09-13 12:54:33,674 - INFO - Epoch 38, Batch 200, Train Loss: 0.4626
+2025-09-13 12:54:34,050 - INFO - Epoch 39/100, Train Loss: 0.4166, Val Accuracy: 0.8815, Val Conf Matrix:
+[[2522  127    2]
+ [  53 2106  552]
+ [   3  205 2381]]
+2025-09-13 12:54:34,065 - INFO - Epoch 39, Batch 0, Train Loss: 0.4196
+2025-09-13 12:54:34,948 - INFO - Epoch 39, Batch 100, Train Loss: 0.4043
+2025-09-13 12:54:35,906 - INFO - Epoch 39, Batch 200, Train Loss: 0.3746
+2025-09-13 12:54:36,250 - INFO - Epoch 40/100, Train Loss: 0.4116, Val Accuracy: 0.8755, Val Conf Matrix:
+[[2517  129    5]
+ [  67 2042  602]
+ [   4  183 2402]]
+2025-09-13 12:54:36,269 - INFO - Epoch 40, Batch 0, Train Loss: 0.3872
+2025-09-13 12:54:37,047 - INFO - Epoch 40, Batch 100, Train Loss: 0.3852
+2025-09-13 12:54:37,904 - INFO - Epoch 40, Batch 200, Train Loss: 0.3862
+2025-09-13 12:54:38,280 - INFO - Epoch 41/100, Train Loss: 0.4083, Val Accuracy: 0.8813, Val Conf Matrix:
+[[2529  120    2]
+ [  52 2062  597]
+ [   7  166 2416]]
+2025-09-13 12:54:38,295 - INFO - Epoch 41, Batch 0, Train Loss: 0.3706
+2025-09-13 12:54:39,099 - INFO - Epoch 41, Batch 100, Train Loss: 0.3714
+2025-09-13 12:54:39,891 - INFO - Epoch 41, Batch 200, Train Loss: 0.4201
+2025-09-13 12:54:40,244 - INFO - Epoch 42/100, Train Loss: 0.4050, Val Accuracy: 0.8823, Val Conf Matrix:
+[[2535  114    2]
+ [  67 2110  534]
+ [   5  214 2370]]
+2025-09-13 12:54:40,266 - INFO - Epoch 42, Batch 0, Train Loss: 0.3432
+2025-09-13 12:54:41,102 - INFO - Epoch 42, Batch 100, Train Loss: 0.3579
+2025-09-13 12:54:41,960 - INFO - Epoch 42, Batch 200, Train Loss: 0.4017
+2025-09-13 12:54:42,295 - INFO - Epoch 43/100, Train Loss: 0.4053, Val Accuracy: 0.8811, Val Conf Matrix:
+[[2543  104    4]
+ [  77 2103  531]
+ [  27  202 2360]]
+2025-09-13 12:54:42,311 - INFO - Epoch 43, Batch 0, Train Loss: 0.3622
+2025-09-13 12:54:43,307 - INFO - Epoch 43, Batch 100, Train Loss: 0.4176
+2025-09-13 12:54:44,096 - INFO - Epoch 43, Batch 200, Train Loss: 0.3971
+2025-09-13 12:54:44,453 - INFO - Epoch 44/100, Train Loss: 0.4039, Val Accuracy: 0.8832, Val Conf Matrix:
+[[2538  112    1]
+ [  61 2113  537]
+ [  19  199 2371]]
+2025-09-13 12:54:44,467 - INFO - Epoch 44, Batch 0, Train Loss: 0.3609
+2025-09-13 12:54:45,336 - INFO - Epoch 44, Batch 100, Train Loss: 0.3816
+2025-09-13 12:54:46,156 - INFO - Epoch 44, Batch 200, Train Loss: 0.3982
+2025-09-13 12:54:46,538 - INFO - Epoch 45/100, Train Loss: 0.3992, Val Accuracy: 0.8839, Val Conf Matrix:
+[[2533  112    6]
+ [  59 2109  543]
+ [   7  196 2386]]
+2025-09-13 12:54:46,538 - INFO - Epoch 45, Batch 0, Train Loss: 0.3592
+2025-09-13 12:54:47,405 - INFO - Epoch 45, Batch 100, Train Loss: 0.3750
+2025-09-13 12:54:48,372 - INFO - Epoch 45, Batch 200, Train Loss: 0.4161
+2025-09-13 12:54:48,737 - INFO - Epoch 46/100, Train Loss: 0.3963, Val Accuracy: 0.8868, Val Conf Matrix:
+[[2534  114    3]
+ [  49 2133  529]
+ [   7  198 2384]]
+2025-09-13 12:54:48,737 - INFO - Epoch 46, Batch 0, Train Loss: 0.3649
+2025-09-13 12:54:49,545 - INFO - Epoch 46, Batch 100, Train Loss: 0.4074
+2025-09-13 12:54:50,346 - INFO - Epoch 46, Batch 200, Train Loss: 0.4141
+2025-09-13 12:54:50,838 - INFO - Epoch 47/100, Train Loss: 0.3964, Val Accuracy: 0.8847, Val Conf Matrix:
+[[2572   77    2]
+ [  73 2038  600]
+ [  23  142 2424]]
+2025-09-13 12:54:50,854 - INFO - Epoch 47, Batch 0, Train Loss: 0.4001
+2025-09-13 12:54:51,950 - INFO - Epoch 47, Batch 100, Train Loss: 0.4033
+2025-09-13 12:54:52,732 - INFO - Epoch 47, Batch 200, Train Loss: 0.3848
+2025-09-13 12:54:53,076 - INFO - Epoch 48/100, Train Loss: 0.3943, Val Accuracy: 0.8925, Val Conf Matrix:
+[[2564   85    2]
+ [  73 2161  477]
+ [  26  192 2371]]
+2025-09-13 12:54:53,091 - INFO - Epoch 48, Batch 0, Train Loss: 0.3853
+2025-09-13 12:54:53,846 - INFO - Epoch 48, Batch 100, Train Loss: 0.4000
+2025-09-13 12:54:54,621 - INFO - Epoch 48, Batch 200, Train Loss: 0.4049
+2025-09-13 12:54:54,942 - INFO - Epoch 49/100, Train Loss: 0.3913, Val Accuracy: 0.8884, Val Conf Matrix:
+[[2543   93   15]
+ [  53 2109  549]
+ [  10  167 2412]]
+2025-09-13 12:54:54,942 - INFO - Epoch 49, Batch 0, Train Loss: 0.3856
+2025-09-13 12:54:55,731 - INFO - Epoch 49, Batch 100, Train Loss: 0.4103
+2025-09-13 12:54:56,511 - INFO - Epoch 49, Batch 200, Train Loss: 0.3652
+2025-09-13 12:54:56,821 - INFO - Epoch 50/100, Train Loss: 0.3884, Val Accuracy: 0.8902, Val Conf Matrix:
+[[2554   95    2]
+ [  56 2152  503]
+ [  30  187 2372]]
+2025-09-13 12:54:56,839 - INFO - Epoch 50, Batch 0, Train Loss: 0.3952
+2025-09-13 12:54:57,543 - INFO - Epoch 50, Batch 100, Train Loss: 0.3966
+2025-09-13 12:54:58,408 - INFO - Epoch 50, Batch 200, Train Loss: 0.3860
+2025-09-13 12:54:58,770 - INFO - Epoch 51/100, Train Loss: 0.3898, Val Accuracy: 0.8917, Val Conf Matrix:
+[[2560   89    2]
+ [  66 2130  515]
+ [   8  181 2400]]
+2025-09-13 12:54:58,770 - INFO - Epoch 51, Batch 0, Train Loss: 0.4236
+2025-09-13 12:54:59,491 - INFO - Epoch 51, Batch 100, Train Loss: 0.3418
+2025-09-13 12:55:00,185 - INFO - Epoch 51, Batch 200, Train Loss: 0.3869
+2025-09-13 12:55:00,478 - INFO - Epoch 52/100, Train Loss: 0.3870, Val Accuracy: 0.8930, Val Conf Matrix:
+[[2531  118    2]
+ [  54 2187  470]
+ [   7  200 2382]]
+2025-09-13 12:55:00,478 - INFO - Epoch 52, Batch 0, Train Loss: 0.4018
+2025-09-13 12:55:01,395 - INFO - Epoch 52, Batch 100, Train Loss: 0.3896
+2025-09-13 12:55:02,540 - INFO - Epoch 52, Batch 200, Train Loss: 0.3486
+2025-09-13 12:55:02,912 - INFO - Epoch 53/100, Train Loss: 0.3848, Val Accuracy: 0.8971, Val Conf Matrix:
+[[2536  112    3]
+ [  54 2244  413]
+ [   4  232 2353]]
+2025-09-13 12:55:02,931 - INFO - Epoch 53, Batch 0, Train Loss: 0.3538
+2025-09-13 12:55:03,895 - INFO - Epoch 53, Batch 100, Train Loss: 0.3702
+2025-09-13 12:55:04,866 - INFO - Epoch 53, Batch 200, Train Loss: 0.3823
+2025-09-13 12:55:05,230 - INFO - Epoch 54/100, Train Loss: 0.3824, Val Accuracy: 0.8976, Val Conf Matrix:
+[[2576   74    1]
+ [  52 2210  449]
+ [  17  221 2351]]
+2025-09-13 12:55:05,250 - INFO - Epoch 54, Batch 0, Train Loss: 0.3445
+2025-09-13 12:55:06,087 - INFO - Epoch 54, Batch 100, Train Loss: 0.3865
+2025-09-13 12:55:06,917 - INFO - Epoch 54, Batch 200, Train Loss: 0.3966
+2025-09-13 12:55:07,293 - INFO - Epoch 55/100, Train Loss: 0.3815, Val Accuracy: 0.8916, Val Conf Matrix:
+[[2567   83    1]
+ [  60 2179  472]
+ [  33  213 2343]]
+2025-09-13 12:55:07,314 - INFO - Epoch 55, Batch 0, Train Loss: 0.3951
+2025-09-13 12:55:08,159 - INFO - Epoch 55, Batch 100, Train Loss: 0.3853
+2025-09-13 12:55:08,882 - INFO - Epoch 55, Batch 200, Train Loss: 0.3693
+2025-09-13 12:55:09,207 - INFO - Epoch 56/100, Train Loss: 0.3801, Val Accuracy: 0.8941, Val Conf Matrix:
+[[2552   97    2]
+ [  54 2170  487]
+ [  12  190 2387]]
+2025-09-13 12:55:09,223 - INFO - Epoch 56, Batch 0, Train Loss: 0.3798
+2025-09-13 12:55:09,992 - INFO - Epoch 56, Batch 100, Train Loss: 0.3677
+2025-09-13 12:55:11,058 - INFO - Epoch 56, Batch 200, Train Loss: 0.3404
+2025-09-13 12:55:11,403 - INFO - Epoch 57/100, Train Loss: 0.3780, Val Accuracy: 0.9018, Val Conf Matrix:
+[[2569   81    1]
+ [  61 2242  408]
+ [  29  201 2359]]
+2025-09-13 12:55:11,411 - INFO - Epoch 57, Batch 0, Train Loss: 0.4022
+2025-09-13 12:55:12,198 - INFO - Epoch 57, Batch 100, Train Loss: 0.3646
+2025-09-13 12:55:12,903 - INFO - Epoch 57, Batch 200, Train Loss: 0.3743
+2025-09-13 12:55:13,307 - INFO - Epoch 58/100, Train Loss: 0.3749, Val Accuracy: 0.8923, Val Conf Matrix:
+[[2548   89   14]
+ [  43 2163  505]
+ [   9  196 2384]]
+2025-09-13 12:55:13,331 - INFO - Epoch 58, Batch 0, Train Loss: 0.3278
+2025-09-13 12:55:14,179 - INFO - Epoch 58, Batch 100, Train Loss: 0.4109
+2025-09-13 12:55:15,017 - INFO - Epoch 58, Batch 200, Train Loss: 0.3458
+2025-09-13 12:55:15,346 - INFO - Epoch 59/100, Train Loss: 0.3754, Val Accuracy: 0.8990, Val Conf Matrix:
+[[2569   76    6]
+ [  56 2186  469]
+ [   6  190 2393]]
+2025-09-13 12:55:15,368 - INFO - Epoch 59, Batch 0, Train Loss: 0.3622
+2025-09-13 12:55:16,332 - INFO - Epoch 59, Batch 100, Train Loss: 0.3678
+2025-09-13 12:55:17,108 - INFO - Epoch 59, Batch 200, Train Loss: 0.3993
+2025-09-13 12:55:17,455 - INFO - Epoch 60/100, Train Loss: 0.3740, Val Accuracy: 0.9001, Val Conf Matrix:
+[[2564   67   20]
+ [  36 2225  450]
+ [  19  202 2368]]
+2025-09-13 12:55:17,471 - INFO - Epoch 60, Batch 0, Train Loss: 0.3366
+2025-09-13 12:55:18,411 - INFO - Epoch 60, Batch 100, Train Loss: 0.3791
+2025-09-13 12:55:19,234 - INFO - Epoch 60, Batch 200, Train Loss: 0.4033
+2025-09-13 12:55:19,633 - INFO - Epoch 61/100, Train Loss: 0.3727, Val Accuracy: 0.9043, Val Conf Matrix:
+[[2566   82    3]
+ [  32 2239  440]
+ [  10  194 2385]]
+2025-09-13 12:55:19,648 - INFO - Epoch 61, Batch 0, Train Loss: 0.3617
+2025-09-13 12:55:20,582 - INFO - Epoch 61, Batch 100, Train Loss: 0.3550
+2025-09-13 12:55:21,367 - INFO - Epoch 61, Batch 200, Train Loss: 0.3817
+2025-09-13 12:55:21,702 - INFO - Epoch 62/100, Train Loss: 0.3716, Val Accuracy: 0.8985, Val Conf Matrix:
+[[2553   96    2]
+ [  57 2180  474]
+ [   7  171 2411]]
+2025-09-13 12:55:21,718 - INFO - Epoch 62, Batch 0, Train Loss: 0.3925
+2025-09-13 12:55:22,500 - INFO - Epoch 62, Batch 100, Train Loss: 0.3810
+2025-09-13 12:55:23,306 - INFO - Epoch 62, Batch 200, Train Loss: 0.4086
+2025-09-13 12:55:23,626 - INFO - Epoch 63/100, Train Loss: 0.3705, Val Accuracy: 0.9003, Val Conf Matrix:
+[[2574   76    1]
+ [  29 2172  510]
+ [  26  151 2412]]
+2025-09-13 12:55:23,626 - INFO - Epoch 63, Batch 0, Train Loss: 0.3539
+2025-09-13 12:55:24,375 - INFO - Epoch 63, Batch 100, Train Loss: 0.3703
+2025-09-13 12:55:25,114 - INFO - Epoch 63, Batch 200, Train Loss: 0.3673
+2025-09-13 12:55:25,439 - INFO - Epoch 64/100, Train Loss: 0.3727, Val Accuracy: 0.9045, Val Conf Matrix:
+[[2557   92    2]
+ [  27 2240  444]
+ [   6  188 2395]]
+2025-09-13 12:55:25,455 - INFO - Epoch 64, Batch 0, Train Loss: 0.3617
+2025-09-13 12:55:26,541 - INFO - Epoch 64, Batch 100, Train Loss: 0.3636
+2025-09-13 12:55:27,312 - INFO - Epoch 64, Batch 200, Train Loss: 0.3510
+2025-09-13 12:55:27,716 - INFO - Epoch 65/100, Train Loss: 0.3694, Val Accuracy: 0.9054, Val Conf Matrix:
+[[2572   77    2]
+ [  28 2244  439]
+ [  15  191 2383]]
+2025-09-13 12:55:27,733 - INFO - Epoch 65, Batch 0, Train Loss: 0.3772
+2025-09-13 12:55:28,698 - INFO - Epoch 65, Batch 100, Train Loss: 0.3620
+2025-09-13 12:55:29,732 - INFO - Epoch 65, Batch 200, Train Loss: 0.3604
+2025-09-13 12:55:30,067 - INFO - Epoch 66/100, Train Loss: 0.3681, Val Accuracy: 0.8954, Val Conf Matrix:
+[[2579   58   14]
+ [  52 2120  539]
+ [  12  157 2420]]
+2025-09-13 12:55:30,083 - INFO - Epoch 66, Batch 0, Train Loss: 0.3475
+2025-09-13 12:55:30,883 - INFO - Epoch 66, Batch 100, Train Loss: 0.3818
+2025-09-13 12:55:31,661 - INFO - Epoch 66, Batch 200, Train Loss: 0.3737
+2025-09-13 12:55:31,999 - INFO - Epoch 67/100, Train Loss: 0.3655, Val Accuracy: 0.8991, Val Conf Matrix:
+[[2573   75    3]
+ [  59 2218  434]
+ [  19  212 2358]]
+2025-09-13 12:55:32,015 - INFO - Epoch 67, Batch 0, Train Loss: 0.3324
+2025-09-13 12:55:32,832 - INFO - Epoch 67, Batch 100, Train Loss: 0.3863
+2025-09-13 12:55:33,705 - INFO - Epoch 67, Batch 200, Train Loss: 0.3513
+2025-09-13 12:55:34,055 - INFO - Epoch 68/100, Train Loss: 0.3659, Val Accuracy: 0.8905, Val Conf Matrix:
+[[2554   95    2]
+ [  45 2120  546]
+ [   9  174 2406]]
+2025-09-13 12:55:34,065 - INFO - Epoch 68, Batch 0, Train Loss: 0.3473
+2025-09-13 12:55:34,839 - INFO - Epoch 68, Batch 100, Train Loss: 0.3885
+2025-09-13 12:55:35,664 - INFO - Epoch 68, Batch 200, Train Loss: 0.3483
+2025-09-13 12:55:36,096 - INFO - Epoch 69/100, Train Loss: 0.3665, Val Accuracy: 0.9117, Val Conf Matrix:
+[[2557   94    0]
+ [  32 2332  347]
+ [   9  220 2360]]
+2025-09-13 12:55:36,112 - INFO - Epoch 69, Batch 0, Train Loss: 0.3811
+2025-09-13 12:55:37,113 - INFO - Epoch 69, Batch 100, Train Loss: 0.3837
+2025-09-13 12:55:37,896 - INFO - Epoch 69, Batch 200, Train Loss: 0.3671
+2025-09-13 12:55:38,260 - INFO - Epoch 70/100, Train Loss: 0.3633, Val Accuracy: 0.9011, Val Conf Matrix:
+[[2571   79    1]
+ [  56 2203  452]
+ [  15  183 2391]]
+2025-09-13 12:55:38,276 - INFO - Epoch 70, Batch 0, Train Loss: 0.4108
+2025-09-13 12:55:38,971 - INFO - Epoch 70, Batch 100, Train Loss: 0.3093
+2025-09-13 12:55:39,670 - INFO - Epoch 70, Batch 200, Train Loss: 0.3430
+2025-09-13 12:55:39,981 - INFO - Epoch 71/100, Train Loss: 0.3652, Val Accuracy: 0.9020, Val Conf Matrix:
+[[2573   77    1]
+ [  62 2180  469]
+ [   8  162 2419]]
+2025-09-13 12:55:39,998 - INFO - Epoch 71, Batch 0, Train Loss: 0.3274
+2025-09-13 12:55:40,935 - INFO - Epoch 71, Batch 100, Train Loss: 0.3661
+2025-09-13 12:55:41,717 - INFO - Epoch 71, Batch 200, Train Loss: 0.2998
+2025-09-13 12:55:42,029 - INFO - Epoch 72/100, Train Loss: 0.3652, Val Accuracy: 0.9054, Val Conf Matrix:
+[[2588   61    2]
+ [  80 2238  393]
+ [  34  182 2373]]
+2025-09-13 12:55:42,052 - INFO - Epoch 72, Batch 0, Train Loss: 0.3583
+2025-09-13 12:55:43,007 - INFO - Epoch 72, Batch 100, Train Loss: 0.3399
+2025-09-13 12:55:44,061 - INFO - Epoch 72, Batch 200, Train Loss: 0.3363
+2025-09-13 12:55:44,454 - INFO - Epoch 73/100, Train Loss: 0.3605, Val Accuracy: 0.9037, Val Conf Matrix:
+[[2575   74    2]
+ [  59 2221  431]
+ [  18  182 2389]]
+2025-09-13 12:55:44,470 - INFO - Epoch 73, Batch 0, Train Loss: 0.4150
+2025-09-13 12:55:45,398 - INFO - Epoch 73, Batch 100, Train Loss: 0.3798
+2025-09-13 12:55:46,250 - INFO - Epoch 73, Batch 200, Train Loss: 0.3918
+2025-09-13 12:55:46,580 - INFO - Epoch 74/100, Train Loss: 0.3608, Val Accuracy: 0.8980, Val Conf Matrix:
+[[2567   82    2]
+ [  38 2176  497]
+ [   7  185 2397]]
+2025-09-13 12:55:46,580 - INFO - Epoch 74, Batch 0, Train Loss: 0.4146
+2025-09-13 12:55:47,491 - INFO - Epoch 74, Batch 100, Train Loss: 0.3440
+2025-09-13 12:55:48,341 - INFO - Epoch 74, Batch 200, Train Loss: 0.3594
+2025-09-13 12:55:48,666 - INFO - Epoch 75/100, Train Loss: 0.3624, Val Accuracy: 0.9005, Val Conf Matrix:
+[[2577   72    2]
+ [  62 2160  489]
+ [   8  158 2423]]
+2025-09-13 12:55:48,681 - INFO - Epoch 75, Batch 0, Train Loss: 0.3170
+2025-09-13 12:55:49,562 - INFO - Epoch 75, Batch 100, Train Loss: 0.3896
+2025-09-13 12:55:50,353 - INFO - Epoch 75, Batch 200, Train Loss: 0.3830
+2025-09-13 12:55:50,704 - INFO - Epoch 76/100, Train Loss: 0.3601, Val Accuracy: 0.9034, Val Conf Matrix:
+[[2578   70    3]
+ [  51 2208  452]
+ [  13  179 2397]]
+2025-09-13 12:55:50,724 - INFO - Epoch 76, Batch 0, Train Loss: 0.3640
+2025-09-13 12:55:51,617 - INFO - Epoch 76, Batch 100, Train Loss: 0.3353
+2025-09-13 12:55:52,382 - INFO - Epoch 76, Batch 200, Train Loss: 0.3689
+2025-09-13 12:55:52,738 - INFO - Epoch 77/100, Train Loss: 0.3579, Val Accuracy: 0.9071, Val Conf Matrix:
+[[2587   61    3]
+ [  33 2212  466]
+ [  18  158 2413]]
+2025-09-13 12:55:52,754 - INFO - Epoch 77, Batch 0, Train Loss: 0.3659
+2025-09-13 12:55:53,648 - INFO - Epoch 77, Batch 100, Train Loss: 0.3591
+2025-09-13 12:55:54,382 - INFO - Epoch 77, Batch 200, Train Loss: 0.3343
+2025-09-13 12:55:54,696 - INFO - Epoch 78/100, Train Loss: 0.3584, Val Accuracy: 0.9073, Val Conf Matrix:
+[[2568   81    2]
+ [  32 2301  378]
+ [  15  229 2345]]
+2025-09-13 12:55:54,712 - INFO - Epoch 78, Batch 0, Train Loss: 0.3208
+2025-09-13 12:55:55,437 - INFO - Epoch 78, Batch 100, Train Loss: 0.3783
+2025-09-13 12:55:56,220 - INFO - Epoch 78, Batch 200, Train Loss: 0.3441
+2025-09-13 12:55:56,562 - INFO - Epoch 79/100, Train Loss: 0.3577, Val Accuracy: 0.8986, Val Conf Matrix:
+[[2570   73    8]
+ [  51 2208  452]
+ [   7  215 2367]]
+2025-09-13 12:55:56,584 - INFO - Epoch 79, Batch 0, Train Loss: 0.3833
+2025-09-13 12:55:57,406 - INFO - Epoch 79, Batch 100, Train Loss: 0.3666
+2025-09-13 12:55:58,313 - INFO - Epoch 79, Batch 200, Train Loss: 0.3375
+2025-09-13 12:55:58,737 - INFO - Epoch 80/100, Train Loss: 0.3568, Val Accuracy: 0.9022, Val Conf Matrix:
+[[2576   73    2]
+ [  59 2186  466]
+ [   6  172 2411]]
+2025-09-13 12:55:58,752 - INFO - Epoch 80, Batch 0, Train Loss: 0.3070
+2025-09-13 12:55:59,717 - INFO - Epoch 80, Batch 100, Train Loss: 0.3682
+2025-09-13 12:56:00,478 - INFO - Epoch 80, Batch 200, Train Loss: 0.3723
+2025-09-13 12:56:00,795 - INFO - Epoch 81/100, Train Loss: 0.3553, Val Accuracy: 0.9020, Val Conf Matrix:
+[[2576   63   12]
+ [  52 2200  459]
+ [   7  186 2396]]
+2025-09-13 12:56:00,812 - INFO - Epoch 81, Batch 0, Train Loss: 0.3699
+2025-09-13 12:56:01,733 - INFO - Epoch 81, Batch 100, Train Loss: 0.3813
+2025-09-13 12:56:02,662 - INFO - Epoch 81, Batch 200, Train Loss: 0.3769
+2025-09-13 12:56:03,009 - INFO - Epoch 82/100, Train Loss: 0.3570, Val Accuracy: 0.9062, Val Conf Matrix:
+[[2578   48   25]
+ [  45 2229  437]
+ [   7  184 2398]]
+2025-09-13 12:56:03,032 - INFO - Epoch 82, Batch 0, Train Loss: 0.3497
+2025-09-13 12:56:03,907 - INFO - Epoch 82, Batch 100, Train Loss: 0.3574
+2025-09-13 12:56:04,685 - INFO - Epoch 82, Batch 200, Train Loss: 0.3233
+2025-09-13 12:56:05,044 - INFO - Epoch 83/100, Train Loss: 0.3554, Val Accuracy: 0.9063, Val Conf Matrix:
+[[2583   66    2]
+ [  63 2243  405]
+ [  29  180 2380]]
+2025-09-13 12:56:05,064 - INFO - Epoch 83, Batch 0, Train Loss: 0.3292
+2025-09-13 12:56:05,929 - INFO - Epoch 83, Batch 100, Train Loss: 0.3646
+2025-09-13 12:56:07,071 - INFO - Epoch 83, Batch 200, Train Loss: 0.3357
+2025-09-13 12:56:07,570 - INFO - Epoch 84/100, Train Loss: 0.3542, Val Accuracy: 0.9028, Val Conf Matrix:
+[[2578   56   17]
+ [  65 2188  458]
+ [   7  170 2412]]
+2025-09-13 12:56:07,593 - INFO - Epoch 84, Batch 0, Train Loss: 0.3249
+2025-09-13 12:56:08,417 - INFO - Epoch 84, Batch 100, Train Loss: 0.3821
+2025-09-13 12:56:09,258 - INFO - Epoch 84, Batch 200, Train Loss: 0.3916
+2025-09-13 12:56:09,681 - INFO - Epoch 85/100, Train Loss: 0.3547, Val Accuracy: 0.9102, Val Conf Matrix:
+[[2592   59    0]
+ [  38 2275  398]
+ [  21  198 2370]]
+2025-09-13 12:56:09,702 - INFO - Epoch 85, Batch 0, Train Loss: 0.3317
+2025-09-13 12:56:10,476 - INFO - Epoch 85, Batch 100, Train Loss: 0.3805
+2025-09-13 12:56:11,337 - INFO - Epoch 85, Batch 200, Train Loss: 0.3594
+2025-09-13 12:56:11,701 - INFO - Epoch 86/100, Train Loss: 0.3527, Val Accuracy: 0.8989, Val Conf Matrix:
+[[2553   75   23]
+ [  44 2172  495]
+ [   7  160 2422]]
+2025-09-13 12:56:11,717 - INFO - Epoch 86, Batch 0, Train Loss: 0.3305
+2025-09-13 12:56:12,545 - INFO - Epoch 86, Batch 100, Train Loss: 0.3532
+2025-09-13 12:56:13,333 - INFO - Epoch 86, Batch 200, Train Loss: 0.3130
+2025-09-13 12:56:13,704 - INFO - Epoch 87/100, Train Loss: 0.3521, Val Accuracy: 0.9071, Val Conf Matrix:
+[[2563   87    1]
+ [  37 2286  388]
+ [   9  217 2363]]
+2025-09-13 12:56:13,720 - INFO - Epoch 87, Batch 0, Train Loss: 0.3267
+2025-09-13 12:56:14,669 - INFO - Epoch 87, Batch 100, Train Loss: 0.3367
+2025-09-13 12:56:15,767 - INFO - Epoch 87, Batch 200, Train Loss: 0.3503
+2025-09-13 12:56:16,274 - INFO - Epoch 88/100, Train Loss: 0.3547, Val Accuracy: 0.9048, Val Conf Matrix:
+[[2575   75    1]
+ [  33 2257  421]
+ [  17  210 2362]]
+2025-09-13 12:56:16,292 - INFO - Epoch 88, Batch 0, Train Loss: 0.3394
+2025-09-13 12:56:17,134 - INFO - Epoch 88, Batch 100, Train Loss: 0.3310
+2025-09-13 12:56:18,192 - INFO - Epoch 88, Batch 200, Train Loss: 0.3511
+2025-09-13 12:56:18,653 - INFO - Epoch 89/100, Train Loss: 0.3506, Val Accuracy: 0.9053, Val Conf Matrix:
+[[2584   56   11]
+ [  42 2201  468]
+ [  18  158 2413]]
+2025-09-13 12:56:18,675 - INFO - Epoch 89, Batch 0, Train Loss: 0.3473
+2025-09-13 12:56:19,477 - INFO - Epoch 89, Batch 100, Train Loss: 0.3410
+2025-09-13 12:56:20,236 - INFO - Epoch 89, Batch 200, Train Loss: 0.3533
+2025-09-13 12:56:20,644 - INFO - Epoch 90/100, Train Loss: 0.3529, Val Accuracy: 0.9103, Val Conf Matrix:
+[[2583   66    2]
+ [  34 2294  383]
+ [  11  217 2361]]
+2025-09-13 12:56:20,670 - INFO - Epoch 90, Batch 0, Train Loss: 0.3731
+2025-09-13 12:56:21,380 - INFO - Epoch 90, Batch 100, Train Loss: 0.3465
+2025-09-13 12:56:22,085 - INFO - Epoch 90, Batch 200, Train Loss: 0.3781
+2025-09-13 12:56:22,422 - INFO - Epoch 91/100, Train Loss: 0.3514, Val Accuracy: 0.9098, Val Conf Matrix:
+[[2581   60   10]
+ [  23 2278  410]
+ [  12  202 2375]]
+2025-09-13 12:56:22,438 - INFO - Epoch 91, Batch 0, Train Loss: 0.3566
+2025-09-13 12:56:23,304 - INFO - Epoch 91, Batch 100, Train Loss: 0.3621
+2025-09-13 12:56:24,106 - INFO - Epoch 91, Batch 200, Train Loss: 0.3209
+2025-09-13 12:56:24,499 - INFO - Epoch 92/100, Train Loss: 0.3507, Val Accuracy: 0.9082, Val Conf Matrix:
+[[2578   67    6]
+ [  18 2261  432]
+ [   6  201 2382]]
+2025-09-13 12:56:24,499 - INFO - Epoch 92, Batch 0, Train Loss: 0.3334
+2025-09-13 12:56:25,455 - INFO - Epoch 92, Batch 100, Train Loss: 0.3229
+2025-09-13 12:56:26,280 - INFO - Epoch 92, Batch 200, Train Loss: 0.3613
+2025-09-13 12:56:26,637 - INFO - Epoch 93/100, Train Loss: 0.3493, Val Accuracy: 0.9000, Val Conf Matrix:
+[[2579   70    2]
+ [  59 2143  509]
+ [   5  150 2434]]
+2025-09-13 12:56:26,658 - INFO - Epoch 93, Batch 0, Train Loss: 0.3550
+2025-09-13 12:56:27,487 - INFO - Epoch 93, Batch 100, Train Loss: 0.3365
+2025-09-13 12:56:28,338 - INFO - Epoch 93, Batch 200, Train Loss: 0.3433
+2025-09-13 12:56:28,688 - INFO - Epoch 94/100, Train Loss: 0.3500, Val Accuracy: 0.9106, Val Conf Matrix:
+[[2591   56    4]
+ [  45 2228  438]
+ [   7  161 2421]]
+2025-09-13 12:56:28,711 - INFO - Epoch 94, Batch 0, Train Loss: 0.4029
+2025-09-13 12:56:29,524 - INFO - Epoch 94, Batch 100, Train Loss: 0.4079
+2025-09-13 12:56:30,458 - INFO - Epoch 94, Batch 200, Train Loss: 0.3508
+2025-09-13 12:56:30,868 - INFO - Epoch 95/100, Train Loss: 0.3485, Val Accuracy: 0.9064, Val Conf Matrix:
+[[2575   76    0]
+ [  29 2282  400]
+ [  23  216 2350]]
+2025-09-13 12:56:30,884 - INFO - Epoch 95, Batch 0, Train Loss: 0.3536
+2025-09-13 12:56:31,661 - INFO - Epoch 95, Batch 100, Train Loss: 0.3276
+2025-09-13 12:56:32,477 - INFO - Epoch 95, Batch 200, Train Loss: 0.3631
+2025-09-13 12:56:32,921 - INFO - Epoch 96/100, Train Loss: 0.3465, Val Accuracy: 0.9053, Val Conf Matrix:
+[[2581   69    1]
+ [  49 2201  461]
+ [  10  163 2416]]
+2025-09-13 12:56:32,944 - INFO - Epoch 96, Batch 0, Train Loss: 0.3503
+2025-09-13 12:56:33,738 - INFO - Epoch 96, Batch 100, Train Loss: 0.3495
+2025-09-13 12:56:34,661 - INFO - Epoch 96, Batch 200, Train Loss: 0.3520
+2025-09-13 12:56:35,154 - INFO - Epoch 97/100, Train Loss: 0.3482, Val Accuracy: 0.9050, Val Conf Matrix:
+[[2590   59    2]
+ [  48 2219  444]
+ [   8  194 2387]]
+2025-09-13 12:56:35,154 - INFO - Epoch 97, Batch 0, Train Loss: 0.3192
+2025-09-13 12:56:35,940 - INFO - Epoch 97, Batch 100, Train Loss: 0.3617
+2025-09-13 12:56:36,657 - INFO - Epoch 97, Batch 200, Train Loss: 0.3137
+2025-09-13 12:56:36,943 - INFO - Epoch 98/100, Train Loss: 0.3495, Val Accuracy: 0.9142, Val Conf Matrix:
+[[2582   67    2]
+ [  21 2268  422]
+ [   7  163 2419]]
+2025-09-13 12:56:36,958 - INFO - Epoch 98, Batch 0, Train Loss: 0.3628
+2025-09-13 12:56:37,819 - INFO - Epoch 98, Batch 100, Train Loss: 0.3119
+2025-09-13 12:56:38,659 - INFO - Epoch 98, Batch 200, Train Loss: 0.3398
+2025-09-13 12:56:39,062 - INFO - Epoch 99/100, Train Loss: 0.3453, Val Accuracy: 0.9086, Val Conf Matrix:
+[[2606   43    2]
+ [  58 2212  441]
+ [  14  169 2406]]
+2025-09-13 12:56:39,084 - INFO - Epoch 99, Batch 0, Train Loss: 0.3373
+2025-09-13 12:56:39,942 - INFO - Epoch 99, Batch 100, Train Loss: 0.3542
+2025-09-13 12:56:40,777 - INFO - Epoch 99, Batch 200, Train Loss: 0.3586
+2025-09-13 12:56:41,090 - INFO - Epoch 100/100, Train Loss: 0.3467, Val Accuracy: 0.9010, Val Conf Matrix:
+[[2569   80    2]
+ [  70 2175  466]
+ [   7  162 2420]]
+2025-09-13 12:56:41,090 - INFO - Best_val_acc: 0.9142
